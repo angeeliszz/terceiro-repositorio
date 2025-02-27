@@ -1,0 +1,14 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100..900;1,100..900&display=swap');
+
+:root {
+    --cor-principal:#4500B6;
+    --cor1:#e10000;
+    --cor2:#cebde0;
+    --cor3:#6f4f00;
+    --cor4:#1f1926;
+    --cor5:#FFFFFF;
+}
+
+body {
+    font-size: 1rem;
+    font-family: 'roboto'
